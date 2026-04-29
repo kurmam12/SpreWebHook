@@ -1,0 +1,6 @@
+com\de\le\sprewebhook\compo\PayloadCompos.class
+com\de\le\sprewebhook\service\WebhookService.class
+com\de\le\sprewebhook\SpreWebHookApplication.class
+com\de\le\sprewebhook\controller\WebHookController.class
+com\de\le\sprewebhook\model\PayloadModel.class
+com\de\le\sprewebhook\config\SecurityConfig.class
